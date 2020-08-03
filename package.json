@@ -40,6 +40,7 @@
     "express-session": "^1.17.1",
     "firebase": "^7.17.1",
     "if-env": "^1.0.4",
+    "jquery": "^3.5.1",
     "mongoose": "^5.9.14",
     "mongoose-data-seed": "^2.1.6",
     "morgan": "^1.10.0",
